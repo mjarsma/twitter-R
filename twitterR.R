@@ -28,6 +28,10 @@ registerTwitterOAuth(twitCred)
 
 userTimeline("newsycombinator", n=20, maxID=NULL, sinceID=NULL, includeRts=FALSE)
 
+<<<<<<< HEAD
 getTrends(period="weekly")
 
 joo
+=======
+getTrends(period="weekly")
+>>>>>>> 65baa210ae51d37cff92e9ed19de26fca8d0d42f
